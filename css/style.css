@@ -1,0 +1,16 @@
+h1{
+                color:blue;
+                text-align:center;
+                background-color: brown;
+                padding: 20px;
+        }
+
+            p{
+                color:green;
+                text-align:justify;
+            }
+
+
+            .destaque{
+            color:blue;
+            }
